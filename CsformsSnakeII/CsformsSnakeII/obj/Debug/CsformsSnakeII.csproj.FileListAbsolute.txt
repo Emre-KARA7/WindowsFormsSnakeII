@@ -1,0 +1,11 @@
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\bin\Debug\CsformsSnakeII.exe.config
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\bin\Debug\CsformsSnakeII.exe
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\bin\Debug\CsformsSnakeII.pdb
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.csproj.AssemblyReference.cache
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.Form1.resources
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.Form2.resources
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.Properties.Resources.resources
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.csproj.GenerateResource.cache
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.csproj.CoreCompileInputs.cache
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.exe
+C:\Users\EmreKara\source\repos\CsformsSnakeII\CsformsSnakeII\obj\Debug\CsformsSnakeII.pdb
